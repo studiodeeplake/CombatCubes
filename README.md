@@ -38,3 +38,18 @@ Your characters abilities and available actions will depend on the gear that you
 
 ##### Right Click
 - Use secondary action of equipped weapon / item / tool
+
+##### E key
+- Use / Pickup action
+
+##### R key 
+- Reload / Reset action
+
+##### Q key 
+- Quick Use Slot
+
+##### Left Shift key
+- Adrenaline / Sprint action
+
+##### TAB key
+- Open / Close Inventory
