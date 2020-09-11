@@ -34,15 +34,7 @@ Your characters abilities and available actions will depend on the gear that you
 |Left Click|Use Primary Item / Tool / Weapon|
 |Right Click|Use Secondary action of Primary Item / Tool / Weapon|
 |E|Use / Pickup|
-
-##### R key 
-- Reload / Reset action
-
-##### Q key 
-- Quick Use Slot
-
-##### Left Shift key
-- Adrenaline / Sprint action
-
-##### TAB key
-- Open / Close Inventory
+|R|Reload / Reset|
+|Q|Use Quick Slot|
+|Left Shift| Adrenaline / Sprint|
+|TAB|Open / Close Inventory|
