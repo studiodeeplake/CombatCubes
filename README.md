@@ -25,16 +25,23 @@ The playable characters will all have the ability to double jump, fire weapons, 
 
 Your characters abilities and available actions will depend on the gear that you have equipped. For normal guns, you'll retain the ability to move left, right, double jump, and speed jump. Some items and weapons will prevent certain actions, each item will explain any negative effects it has on your character when you equip said item. For instance, the MiniGun prevents you from being able to double jump, or speed jump. 
 
-#### Controls
+## Controls
 
+### Character Controls
 | Key | Action |
 |-----|--------|
 |A,D|Move Left / Right|
 |Spacebar|Jump (double tap to double jump)|
 |Left Click|Use Primary Item / Tool / Weapon|
 |Right Click|Use Secondary action of Primary Item / Tool / Weapon|
+|Middle Click|Use Special / Explosive|
 |E|Use / Pickup|
 |R|Reload / Reset|
 |Q|Use Quick Slot|
 |Left Shift| Adrenaline / Sprint|
 |TAB|Open / Close Inventory|
+
+### Inventory Controls
+| Key | Action |
+|-----|--------|
+|Left Click|Drag to move / Drop Items|
