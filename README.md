@@ -29,21 +29,11 @@ Your characters abilities and available actions will depend on the gear that you
 
 | Key | Action |
 |-----|--------|
-| A,D| Move Left / Right|
-|Spacebar| Jump (double tap to double jump)|
+|A,D|Move Left / Right|
+|Spacebar|Jump (double tap to double jump)|
 |Left Click|Use Primary Item / Tool / Weapon|
-
-##### Spacebar
-- Jump (double tap to double jump)
-
-##### Left Click
-- Use primary item / tool / weapon
-
-##### Right Click
-- Use secondary action of equipped weapon / item / tool
-
-##### E key
-- Use / Pickup action
+|Right Click|Use Secondary action of Primary Item / Tool / Weapon|
+|E|Use / Pickup|
 
 ##### R key 
 - Reload / Reset action
