@@ -30,10 +30,8 @@ Your characters abilities and available actions will depend on the gear that you
 | Key | Action |
 |-----|--------|
 | A,D| Move Left / Right|
-
-
-##### A, D keys
-- Move left / right
+|Spacebar| Jump (double tap to double jump)|
+|Left Click|Use Primary Item / Tool / Weapon|
 
 ##### Spacebar
 - Jump (double tap to double jump)
