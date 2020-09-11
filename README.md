@@ -27,6 +27,11 @@ Your characters abilities and available actions will depend on the gear that you
 
 #### Controls
 
+| Key | Action |
+|-----|--------|
+| A,D| Move Left / Right|
+
+
 ##### A, D keys
 - Move left / right
 
