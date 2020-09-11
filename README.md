@@ -19,11 +19,19 @@ You will progress through the different areas and zones defeating enemies and bo
 
 ## Mechanics
 
-### Character Movement
+### Character Stuff
 
 The playable characters will all have the ability to double jump, fire weapons, and use tools. Aiming of weapons is simple, your weapon will automatically aim at the location of your mouse cursor. Your character will move through the x and y axis of your screen while also having the ability to move faster over flat terrain while jumping repeatedly. 
 
 Your characters abilities and available actions will depend on the gear that you have equipped. For normal guns, you'll retain the ability to move left, right, double jump, and speed jump. Some items and weapons will prevent certain actions, each item will explain any negative effects it has on your character when you equip said item. For instance, the MiniGun prevents you from being able to double jump, or speed jump. 
+
+The character can pickup items found on the ground, smash open crates to find random gear. The character will also be able to find special items and equipment that can be used for a limited time, such as the MiniGun and JetPack. 
+
+### Enemy Stuff
+
+A lot of the enemies encountered in the game will be cybernetic in nature and will be indicated that they are not good by a shining red light somewhere on the enemy. Some enemies will be immune to all damage other than a small weakspot. Most enemies can be killed by simple gunfire and explosives. Stationary enemies and hazards are all over the place. From missile turrets, to spike traps.
+
+Fully cybernetic enemies have a chance to drop loot when killed, and all bosses will drop something good. Traps cannot be damaged or destroyed in any way. 
 
 ## Controls
 
