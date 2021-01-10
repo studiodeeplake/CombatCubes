@@ -23,11 +23,17 @@ The main portion or "story mode" of the game is about destroying these portals. 
 
 ### Character Stuff
 
-The playable characters will all have the ability to double jump, fire weapons, and use tools. Aiming of weapons is simple, your weapon will automatically aim at the location of your mouse cursor. Your character will move through the x and y axis of your screen while also having the ability to move faster over flat terrain while jumping repeatedly. 
+The playable characters will all have the ability to jump, double jump, fire a weapon, and use tools. Aiming of weapons is simple, your weapon will automatically aim at the location of your mouse cursor. Your character will move through the x and y axis of your screen while also having the ability to move faster over flat terrain while jumping repeatedly. 
 
-Your characters abilities and available actions will depend on the gear that you have equipped. For normal guns, you'll retain the ability to move left, right, double jump, and speed jump. Some items and weapons will prevent certain actions, each item will explain any negative effects it has on your character when you equip said item. For instance, the MiniGun prevents you from being able to double jump, or speed jump. 
+The player has a choice between 3 different classes: 
 
-The character can pickup items found on the ground, smash open crates to find random gear. The character will also be able to find special items and equipment that can be used for a limited time, such as the MiniGun and JetPack. 
+| Class | Description |
+|-------|-------------|
+|Brute| The "Brute" provides heavy firepower and is hard to kill. Main weapon: Shotgun|
+|Assassin|The "Assassin" provides long range damage and high mobility. Main weapon: Sniper|
+|Warrior|The "Warrior" provides consistent damage and is generally good at everything. Main weapon: Assault Rifle|
+
+Each class will offer something different to gameplay style. The Brute is a tank, hard to kill with very high damage output, but short range and limited mobility. The Assassin is the opposite, great range and mobility, but is pretty squishy, not being able to take many hits. The Warrior class is pretty well rounded, not particularly weak in any one area, but not exceptional in any either. 
 
 ### Enemy Stuff
 
