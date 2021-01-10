@@ -34,7 +34,9 @@ The player has a choice between 3 different classes:
 |Dummy|Numb to their surroundings, the Dummy has a tendency to ignore a lot of damage, as well as dishing out suprising amounts. |Shotgun|
 |Nerd|Creative and witty, the nerd can craft nearly anything. Not as mobile as the Ninja, not as strong as the Brute, but deceptively effective in combat. |Assault Rifle|
 
-Each class will offer something different to gameplay style. The Brute is a tank, hard to kill with very high damage output, but short range and limited mobility. The Assassin is the opposite, great range and mobility, but is pretty squishy, not being able to take many hits. The Warrior class is pretty well rounded, not particularly weak in any one area, but not exceptional in any either. 
+Each class will offer something different to gameplay style. The Brute is a tank, hard to kill with very high damage output, but short range and limited mobility. The Ninja is the opposite, great range and mobility, but is pretty squishy, not being able to take many hits. The Nerd class is pretty well rounded, not particularly weak in any one area, but not exceptional in any either. The Dummy is something... special... Sometimes completely ignores damage and likes to get close to things. 
+
+Every class has two uniguqe active abilities, you'll just have to play around and discover what they do on your own. 
 
 ### Enemy Stuff
 
