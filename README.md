@@ -50,7 +50,8 @@ Fully cybernetic enemies have a chance to drop loot when killed, and all bosses 
 |Spacebar|Jump (double tap to double jump)|
 |Left Click|Use Primary Item / Tool / Weapon|
 |Right Click|Use Secondary action of Primary Item / Tool / Weapon|
-|Middle Click|Use Special / Explosive|
+|Num 1|Use Ability 1|
+|Num 2|Use Ability 2|
 |E|Use / Pickup|
 |R|Reload / Reset|
 |Q|Use Quick Slot|
