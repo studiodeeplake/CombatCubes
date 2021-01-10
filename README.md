@@ -27,11 +27,11 @@ The playable characters will all have the ability to jump, double jump, fire a w
 
 The player has a choice between 3 different classes: 
 
-| Class | Description |
-|-------|-------------|
-|Brute| The "Brute" provides heavy firepower and is hard to kill. Main weapon: Shotgun|
-|Assassin|The "Assassin" provides long range damage and high mobility. Main weapon: Sniper|
-|Warrior|The "Warrior" provides consistent damage and is generally good at everything. Main weapon: Assault Rifle|
+| Class | Description | Main Weapon |
+|-------|-------------|-------------|
+|Brute| The "Brute" provides heavy firepower and is hard to kill.|Shotgun|
+|Assassin|The "Assassin" provides long range damage and high mobility.|Sniper|
+|Warrior|The "Warrior" provides consistent damage and is generally good at everything.|Assault Rifle|
 
 Each class will offer something different to gameplay style. The Brute is a tank, hard to kill with very high damage output, but short range and limited mobility. The Assassin is the opposite, great range and mobility, but is pretty squishy, not being able to take many hits. The Warrior class is pretty well rounded, not particularly weak in any one area, but not exceptional in any either. 
 
