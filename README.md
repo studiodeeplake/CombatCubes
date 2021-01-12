@@ -25,7 +25,7 @@ The main portion or "story mode" of the game is about destroying these portals. 
 
 The playable characters will all have the ability to jump, double jump, fire a weapon, and use tools. Aiming of weapons is simple, your weapon will automatically aim at the location of your mouse cursor. Your character will move through the x and y axis of your screen while also having the ability to move faster over flat terrain while jumping repeatedly. 
 
-The player has a choice between 3 different classes: 
+The player has a choice between 4 starting classes: 
 
 | Class | Description | Main Weapon |
 |-------|-------------|-------------|
