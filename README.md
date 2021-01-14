@@ -50,7 +50,7 @@ There are a few items that the player can make use of. There's a few weapons, po
 | Agility| Will increase players movement speed for a period of time | 
 
 ### Weapons
-| Weapon | name | Description |
+| Weapon | Name | Description |
 | ------ | ---- | ----------- |
 | ShotGun | Chub |Short range, high damage, it's a shotgun, what do you expect?|
 | Assault Rifle | Auger |decent range, decent fire rate and decent damage... I guess you could say it's a decent weapon. | 
