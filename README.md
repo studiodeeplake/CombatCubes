@@ -27,16 +27,42 @@ The playable characters will all have the ability to jump, double jump, fire a w
 
 The player has a choice between 4 starting classes: 
 
-| Class | Description | Main Weapon |
-|-------|-------------|-------------|
-|Brute|High health, high damage, likes heavy weapons! "If they get close, they get dead" |Shotgun|
-|Ninja|Long range, high mobility, low health. That about sums it up.|Sniper|
-|Dummy|Numb to their surroundings, the Dummy has a tendency to ignore a lot of damage, as well as dishing out suprising amounts. |Shotgun|
-|Nerd|Creative and witty, the nerd can craft nearly anything. Not as mobile as the Ninja, not as strong as the Brute, but deceptively effective in combat. |Assault Rifle|
+| Class | Description | 
+|-------|-------------|
+|Brute|High health, high damage, likes heavy weapons! "If they get close, they get dead" |
+|Ninja|Long range, high mobility, low health. That about sums it up.|
+|Dummy|Numb to their surroundings, the Dummy has a tendency to ignore a lot of damage, as well as dishing out suprising amounts. |
+|Nerd|Creative and witty, the nerd can craft nearly anything. Not as mobile as the Ninja, not as strong as the Brute, but deceptively effective in combat. |
 
 Each class will offer something different to gameplay style. The Brute is a tank, hard to kill with very high damage output, but short range and limited mobility. The Ninja is the opposite, great range and mobility, but is pretty squishy, not being able to take many hits. The Nerd class is pretty well rounded, not particularly weak in any one area, but not exceptional in any either. The Dummy is something... special... Sometimes completely ignores damage and likes to get close to things. 
 
 Every class has two uniguqe active abilities, you'll just have to play around and discover what they do on your own. 
+
+## Item Stuff
+
+There are a few items that the player can make use of. There's a few weapons, potions and other pickups / interactables. Below is a list of some of the different items and uses:
+
+### Potions
+| Potion | Description |
+| ------ | ----------- |
+| Health | Heals for a percentage of max health over a period of time |
+| Damage | Increases players weapon damage for a period of time | 
+| Agility| Will increase players movement speed for a period of time | 
+
+### Weapons
+| Weapon | Name | Description |
+| ------ | ---- | ----------- |
+| ShotGun | Chub |Short range, high damage, it's a shotgun, what do you expect?|
+| Assault Rifle | Auger |decent range, decent fire rate and decent damage... I guess you could say it's a decent weapon. | 
+| SMG | Spitter | shorter range than the assault rifle with more damage, high fire rate. This thing burns ammo!|
+| Sniper | Poker | If you can see it, you can hit it. High damage, longest range, low fire rate and long reloads make this weapon pretty situational. | 
+
+### Other Items and Interactables
+
+| Item | Description | 
+| ---- | ----------- | 
+| Scrap | This is basically the currency of the game, you collect scrap and use it to buy items. |
+| Ammo | Basically what it sounds like. Ammo for your guns! Craft it, buy it, find it, shoot it! |
 
 ### Enemy Stuff
 
